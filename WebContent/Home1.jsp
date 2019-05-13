@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome Home</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+    <div class="row">
+    
+    <ul class="main-nav">
+       <li><a href=""> HOME </a></li>
+       <li><a href="http://localhost:8082/library/login.jsp"> LOgout</a></li>
+       <li><a href="http://localhost:8082/library/register.jsp"> Notification </a></li>
+       
+     </ul>
+    
+    </div>
+    <div class="hero">
+     
+     </div>
+    
+    
+    </header>
+</body>
+</html>
